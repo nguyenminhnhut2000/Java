@@ -21,7 +21,7 @@ public class Main {
 	}
 
 	private static void inMenu() {
-		System.out.println("1.テストデータを出力しま。");
+		System.out.println("1.テストデータを出力します。");
 		System.out.println("2.人を追加します。");
 		System.out.println("3.名前を探します。");
 		System.out.println("4.個人番号(MyNumber)で削除します。");
